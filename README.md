@@ -52,5 +52,3 @@ npx sass --watch styles/main.scss:styles/main.css
 - **Hamburger menu:** finish accessibility and mobile toggle.
 - **Finalize rename buttons:** confirm labels and keyboard behavior.
 - **Polish copy:** improve the dynamic header text for location messaging.
-
-If you'd like, I can: add `npm` scripts for Sass and a local server, run the server locally, or add example API key handling. Which should I do next?
