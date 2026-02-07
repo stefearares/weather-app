@@ -1,2 +1,4 @@
 node_modules/
 .vscosde/
+.sass-cache/
+.DS_Store
